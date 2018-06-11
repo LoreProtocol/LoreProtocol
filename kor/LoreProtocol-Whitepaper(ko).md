@@ -2,7 +2,6 @@ Lore Protocol White Paper
 =================
 
 *DongWook Lee* [luckydong@naver.com]()  
-*DOngSun Lim* [---@---.com]()
 *DongSun Lim* [---@---.com]()
 *SangBin Lee* [---@----.com]()
 
