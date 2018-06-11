@@ -11,7 +11,7 @@ Copyright © 2018 Nonce, Inc. All rights are reserved.
 
 ## Table of Contents
 
-* [서문](#introduction)
+* [Introduction](#Introduction)
 * [Lore Protocol](#Lore Protocol)
     * [regulation](#regulation)
     
